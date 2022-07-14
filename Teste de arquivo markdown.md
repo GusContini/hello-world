@@ -30,5 +30,5 @@ Tabela
 
 Figura
 
-![Interface gráfica do usuário Descrição gerada automaticamente](Data Science and Machine Learning/Online Storefront Product Categorization/word_embedding_example.PNG)
+![alt text](Data Science and Machine Learning/Online Storefront Product Categorization/word_embedding_example.PNG)
 
