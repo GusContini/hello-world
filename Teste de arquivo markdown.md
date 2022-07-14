@@ -30,4 +30,5 @@ Tabela
 
 Figura
 
-![Interface gráfica do usuário Descrição gerada automaticamente](media/31e679b8b314aa7ccc3cbe18827933c1.png)
+![Interface gráfica do usuário Descrição gerada automaticamente](Data Science and Machine Learning/Online Storefront Product Categorization/word_embedding_example.PNG)
+
