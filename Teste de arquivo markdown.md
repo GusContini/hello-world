@@ -30,5 +30,5 @@ Tabela
 
 Figura
 
-![alt text](Data Science and Machine Learning/Online Storefront Product Categorization/word_embedding_example.PNG)
+![alt text](https://github.com/GusContini/hello-world/blob/main/Data%20Science%20and%20Machine%20Learning/Online%20Storefront%20Product%20Categorization/word_embedding_example.PNG)
 
